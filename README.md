@@ -46,7 +46,7 @@ This project presents a fully interactive **E-commerce Sales Dashboard** built u
 
 ## 🖼️ Dashboard Preview
 
-![E-commerce Dashboard](![Screenshot](https://github.com/user-attachments/assets/8c586801-c655-46d6-9965-b15327753a12)
+![E-commerce Dashboard](https://github.com/RiyaSharmars/Ecommerce-Sales-Dashboard/blob/main/Screenshot%202.png)
 )
 
 > Screenshot of the live dashboard displaying KPIs, map visuals, and brand-level breakdown
